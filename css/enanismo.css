@@ -1,0 +1,31 @@
+body{
+	background: pink;
+}
+img{width:500px;height: 500px; }
+
+table {
+	width: 100%;
+	background: orange ;
+	border: 20px solid #000000;
+	border-collapse: separate;
+
+}
+header{background: lightblue;
+
+}
+section.a{background: lightgreen;
+
+}
+section.b{background: lightgrey;
+text-align: justify;
+}
+
+
+
+section.z {
+    float: right;
+    width: 300px;
+    height: 173px;
+    background-color: #3993DD;}
+
+@media screen and (min-width: 321px) and (max-width: 1350px) {}
